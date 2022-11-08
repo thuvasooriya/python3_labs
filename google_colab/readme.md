@@ -1,2 +1,3 @@
-# Google Colab Scripts and stuff
-Notebooks here are intended to be used in google colab since they require google drive authorisation and stuff
+# Google Colabs Scripts and stuff
+
+Notebooks here are intended to be used in google colabs since they require google drive authorization and stuff
